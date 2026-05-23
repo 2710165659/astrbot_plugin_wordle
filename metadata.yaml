@@ -1,4 +1,4 @@
-name: astrbot_plugin_wordle
+name: astrbot_plugin_wordle_3
 display_name: Wordle 猜单词
 author: xuan_yuan
 desc: 在群聊或私聊中通过 /wordle 开始 Wordle 猜单词，并以经典 Wordle 风格图片回复。
